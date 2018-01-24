@@ -6,9 +6,9 @@
 
 #### 第1章 编程基础 
 
-1.5.1 [while循环](https://github.com/swiftma/program-logic/blob/master/src/shuo/laoma/basic/c10/Demo.java)
+[1.5.1 while循环](https://github.com/swiftma/program-logic/blob/master/src/shuo/laoma/basic/c10/Demo.java)
 
-[](https://github.com/swiftma/program-logic/blob/master/src/shuo/laoma/basic/c10/Demo.java)
+https://github.com/swiftma/program-logic/blob/master/src/shuo/laoma/basic/c10/Demo.java
 
 1.6.1 函数的基本概念
 
