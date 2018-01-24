@@ -8,4 +8,4 @@
 
 ### [读者评论](https://swiftma.github.io/comments)
 
-### [完整代码导航](https://swiftma.github.io/code)
+### [完整代码导航](https://github.com/swiftma/program-logic/blob/master/the_logic_of_java_programming.md)
