@@ -8,6 +8,10 @@
 >
 > —— 贾攀
 
+> 第55页，最上面的代码示例少了个public，原文为“class Point {”，应该为“public class Point”
+>
+> —— 贾攀
+
 > 第139页，表7-2，包装类Boolean的示例代码中，第一行“b1 = false;”，其中b1没有类型声明，应为“boolean b1 = false; ”
 >
 > —— 傅宇新
