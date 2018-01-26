@@ -10,5 +10,7 @@
 
 ### [作者简介](https://swiftma.github.io/author)
 
+### [勘误](https://swiftma.github.io/erratum.md)
+
 ### [完整代码导航](https://github.com/swiftma/program-logic/blob/master/the_logic_of_java_programming.md)
 
