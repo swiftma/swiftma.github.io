@@ -14,7 +14,7 @@
 
 欢迎反馈新问题，以下任一方式即可：
 - 直接微信我，我微信号：swiftma，添加请备注“反馈”
-- 发邮件给我，邮箱：swiftma@sina.co，[立即发送](mailto:swiftma@sina.com) 
+- 发邮件给我，邮箱：swiftma@sina.com，[立即发送](mailto:swiftma@sina.com) 
 - 在QQ群反馈，QQ群:574974775，添加请备注“编程”
 - 在“老马说编程”公众号发消息
 
