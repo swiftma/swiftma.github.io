@@ -8,7 +8,7 @@
 >
 > —— 贾攀
 
-> 第55页，最上面的代码示例少了个public，原文为“class Point {”，应该为“public class Point”
+> 第55页，最上面的代码示例少了个public，原文为“class Point {”，应该为“public class Point {”
 >
 > —— 贾攀
 
