@@ -24,6 +24,10 @@
 >
 > —— 贾攀
 
+> 第63页，图3-1，右边的图，倒数第三格的地址，原文为0x1000,应该为0x100C
+>
+> —— 王硕
+
 > 第66页，图3-2，有个拼写错误，原文“xiaoma.nama”，应为“xiaoma.name”，另外，内存布局里laoma.children的内容为0x1000，是children数组第一个元素的起始地址，这个不准确，应该是children数组的地址，然后children数组的第一个元素设为0x1000。更新后的图见[这里](https://swiftma.github.io/person_update.jpg)。
 >
 > —— 贾攀，刘挺
