@@ -40,6 +40,17 @@
 >
 > —— 傅宇新
 
+> 第305页，grow方法的代码，三目运算符少了一个问号，原代码为
+```
+int newCapacity = oldCapacity + ((oldCapacity < 64) 
+```
+>应该为：
+```
+int newCapacity = oldCapacity + ((oldCapacity < 64) ? 
+```
+>
+> —— 贾攀
+
 > 第432页，倒数第二行，原文“...是否daemo线程...”，“daemo”拼写错误，应该是“daemon”
 >
 > —— 金鑫
