@@ -45,11 +45,6 @@
 >
 > —— 傅宇新
 
-
-> p248 行，倒数第9行，“，当键值对个数size大于等于threshold时考虑进行扩展。”，可能有一定的误导，
->
-> 改为：当已有键值对个数size大于
-
 > 第305页，grow方法的代码，三目运算符少了一个问号，原代码为
 ```
 int newCapacity = oldCapacity + ((oldCapacity < 64) 
