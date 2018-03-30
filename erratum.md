@@ -36,6 +36,10 @@
 >
 > —— 贾攀
 
+> 第104页，sort方法中的Comparable类型写错了，应该为MyComparable
+>
+> -- 方健
+
 > 第105页，倒数第6行，原文“IChild有IBase1和IBase2两个父类”，其中“两个父类”，应该为“两个父接口”
 
 > 第115页，倒数第四行，原文“，不过，这些变量必须被声明为final，如innerMethod直接访问了方法参数param和局部变量str。”，表述不确切，因为自Java 8开始，不再要求变量必须声明为final，只要是effectively final即事实上没有被重新赋值即可，所以该段改为“，如innerMethod直接访问了方法参数param和局部变量str，不过，在Java 8之前，这些变量必须被声明为final，Java 8不再有这个要求，但变量也不能被重新赋值，否则会有编译错误。”
