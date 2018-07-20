@@ -42,12 +42,20 @@
 
 > 第105页，倒数第6行，原文“IChild有IBase1和IBase2两个父类”，其中“两个父类”，应该为“两个父接口”
 
+> p114页代码清单5-6，偏后的this的i漏印了  
+>
+> —— 罗贤谦
+
 > 第115页，倒数第四行，原文“，不过，这些变量必须被声明为final，如innerMethod直接访问了方法参数param和局部变量str。”，表述不确切，因为自Java 8开始，不再要求变量必须声明为final，只要是effectively final即事实上没有被重新赋值即可，所以该段改为“，如innerMethod直接访问了方法参数param和局部变量str，不过，在Java 8之前，这些变量必须被声明为final，Java 8不再有这个要求，但变量也不能被重新赋值，否则会有编译错误。”
 
 
 > 第139页，表7-2，包装类Boolean的示例代码中，第一行“b1 = false;”，其中b1没有类型声明，应为“boolean b1 = false; ”
 >
 > —— 傅宇新
+
+> 245页的LinedHashSet应该是LinkedHashSet
+
+> 265 第五行 comparable接口少了个l
 
 > 第305页，grow方法的代码，三目运算符少了一个问号，原代码为
 ```
@@ -68,11 +76,21 @@ int newCapacity = oldCapacity + ((oldCapacity < 64) ?
 >
 > —— 金鑫
 
+> 476页的“如代码清单27-6所示”，应该是“如代码清单16-4所示”
+
+> 499 第5行的ConcurrentSkipListMa应该是ConcurrentSkipListMap，少了个p
+>
+> —— 焦阳
+
 > 第514页，中间位置，有两处拼写错误，原文写的都是“corePoolSiz”，少了个字母“e”，应该为“corePoolSize”
 >
 >
 
 > 第518页，18.2.4最后一句，原文“而非“重新发明轮子”，应自己管理和维护消费者线程及任务队列。”，意思表达反了，中间的“应”字应该去掉义，改为“而非“重新发明轮子”，自己管理和维护消费者线程及任务队列。”
+
+> 528中间 ReentrantReadWriteLock的构造方法写成了ReentrantLock
+>
+> —— 焦阳
 
 > 第528页，中间位置“fire表示是否公平”，“fire”拼写错误，应该为“fair”，第529页，倒数第9行，有相同错误，原文“fire表示公平”，应该为“fair表示公平”
 >
